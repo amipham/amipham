@@ -12,9 +12,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/amypham" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amypham" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/amy-pham-720a33229" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amypham" height="30" width="40" /></a>
 <a href="https://instagram.com/amyuph" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="amyuph" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/amyuph" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="amyuph" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCUkMlw6UDvHjQkQul-_dDSQ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="amyuph" height="30" width="40" /></a>
 </p>
 
 
