@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Amy Pham</h1>
 <h3 align="center">A frontend engineer student</h3>
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/a1/83/4a/a1834a9a058936eb40cb378e92577133.gif">
+<img align="right" alt="Coding" width="400" src="https://pa1.aminoapps.com/5966/87bcf3948f787dc8918dcc4981701c92c6742d4a_hq.gif">
 
 - 🌱 I’m currently learning **Java, JS, CSS, Bootstrap, React and HTML**
 
