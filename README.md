@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Amy Pham</h1>
 <h3 align="center">A frontend engineer student</h3>
-<img align="right" alt="Coding" width="400" src=" https://https://tenor.com/view/i-cant-concentrate-study-studying-distractions-computer-gif-4469268">
+<img align="right" alt="Coding" width="400" src=" https://tenor.com/view/i-cant-concentrate-study-studying-distractions-computer-gif-4469268">
 
 - 🌱 I’m currently learning **Java, JS, CSS, Bootstrap, React and HTML**
 
