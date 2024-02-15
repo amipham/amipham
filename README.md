@@ -2,11 +2,13 @@
 <h3 align="center">A frontend engineer student</h3>
 <img align="right" alt="Coding" width="500" src="https://pa1.aminoapps.com/5966/87bcf3948f787dc8918dcc4981701c92c6742d4a_hq.gif">
 
+<div></div>
+
 - 🌱 I’m currently learning **Java, JS, CSS, Bootstrap, React and HTML**
 
 - 📫 How to reach me **amyphh@outlook.com**
 
-
+<div></div>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
